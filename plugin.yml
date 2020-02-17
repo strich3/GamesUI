@@ -9,8 +9,8 @@ website: https://www.youtube.com/channel/UCM7WWOmQmD8b_fBWQmFxl8w
 
 commands: 
  games:
-    description: "GamesUI By PM-PLUGINS TEAM"
+    description: "Minispiele"
     usage: "/games"
  ginfo:
-    description: " info GamesUI By PM-PLUGINS TEAM"
+    description: " Info über die Autoren (Bearbeitet von strich 3)"
     usage: "/ginfo"
